@@ -17,6 +17,9 @@ reranking, and metadata-aware scoring.
 | Andrea Cipolla | 319211 |
 | Maiia Kopalina | 321891 |
 
+**Academic Year:** 2025/2026  
+**Grade:** 29/30
+
 ## What To Run
 
 The recommended entry point is the notebook:
